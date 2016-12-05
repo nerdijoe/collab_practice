@@ -1,3 +1,7 @@
+# awesome class
+class Rudy
+
+end
 =begin
 faaf
 f
@@ -10,3 +14,4 @@ s
 testytestturelelkrj
 
 =end
+
